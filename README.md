@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My name is Cristian Yamamoto and I'm a Software Engineer.
+
 <!--
 **cristianyamamoto/cristianyamamoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
